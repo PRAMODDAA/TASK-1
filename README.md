@@ -8,7 +8,7 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 
 ## Dataset
 
-The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+The dataset used for this task is <a href="worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
 
 ## Tools and Libraries used
 - Jupyter notebook
@@ -38,5 +38,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Shantanu Pandey ](https://www.linkedin.com/in/shantanu-pandey22/)(LinkedIn)</a>
-- Email: shantanupandey223@gmail.com 
+- <a>[Pramod Doddmane ](www.linkedin.com/in/pramoddr)(LinkedIn)</a>
+- Email:pramoddoddmane@gmail.com 
