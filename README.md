@@ -38,5 +38,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a>[Pramod Doddmane ](www.linkedin.com/in/pramoddr)(LinkedIn)</a>
+- <a>[Pramod Doddmane ](https://www.linkedin.com/in/pramoddr)(LinkedIn)</a>
 - Email:pramoddoddmane@gmail.com 
